@@ -1,7 +1,4 @@
-# Hindi-Spell-Checker
-हिन्दी शब्द जाँच एवं शब्दकोश
+# Hindi Spell Checker
 
+This project is in development. If you want to contribute in this project, please add your message in User:Sfic at Hindi Wikipedia. Thanks.
 
-
-
-hiwiki:सदस्य:Sfic
